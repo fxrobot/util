@@ -1,3 +1,3 @@
-module github.com/chanxuehong/util
+module github.com/fxrobot/util
 
 go 1.13
